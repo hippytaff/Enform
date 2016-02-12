@@ -1,0 +1,7 @@
+* Fixed desklock for OpenBSD! See src/extra
+* Fixed modules/conf_theme string display issue on OpenBSD.
+* Better E to GTK+ default scaling.
+* blingbling theme, bring back the clock!
+* disable splash screen
+* get rid of all wizadry nonsense.
+* get rid of illume and illume2 nonsense too... 

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Link
+Name=Wayland Shell
+Name[eo]=Ĉelo de Wayland
+Name[fr]=Shell Wayland
+Comment=Enform Wayland Shell
+Comment[ca]=Shell de l'Enform per a Wayland
+Comment[eo]=Ĉelo de Enform por Wayland
+Comment[fr]=Shell Wayland pour Enform
+Comment[it]=Shell di Enform per Wayland
+Icon=e-module-wl_shell
+X-Enform-ModuleType=look

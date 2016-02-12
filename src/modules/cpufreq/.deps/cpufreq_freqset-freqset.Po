@@ -1,0 +1,72 @@
+cpufreq/cpufreq_freqset-freqset.o cpufreq/cpufreq_freqset-freqset.o:  \
+ cpufreq/freqset.c /usr/include/stdio.h /usr/include/sys/cdefs.h \
+  /usr/include/machine/cdefs.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/sys/types.h \
+  /usr/include/sys/endian.h /usr/include/sys/_endian.h \
+  /usr/include/machine/endian.h /usr/include/sys/select.h \
+  /usr/include/sys/time.h /usr/include/time.h /usr/include/sys/_time.h \
+  /usr/include/stdlib.h /usr/include/unistd.h /usr/include/sys/unistd.h \
+  /usr/include/string.h /usr/include/strings.h /usr/include/sys/param.h \
+  /usr/include/sys/syslimits.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/sys/siginfo.h \
+  /usr/include/sys/limits.h /usr/include/machine/limits.h \
+  /usr/include/machine/param.h /usr/include/sys/resource.h \
+  /usr/include/sys/sysctl.h /usr/include/uvm/uvmexp.h
+
+/usr/include/stdio.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/machine/cdefs.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/sys/endian.h:
+
+/usr/include/sys/_endian.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/sys/time.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/_time.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/unistd.h:
+
+/usr/include/string.h:
+
+/usr/include/strings.h:
+
+/usr/include/sys/param.h:
+
+/usr/include/sys/syslimits.h:
+
+/usr/include/sys/signal.h:
+
+/usr/include/machine/signal.h:
+
+/usr/include/sys/siginfo.h:
+
+/usr/include/sys/limits.h:
+
+/usr/include/machine/limits.h:
+
+/usr/include/machine/param.h:
+
+/usr/include/sys/resource.h:
+
+/usr/include/sys/sysctl.h:
+
+/usr/include/uvm/uvmexp.h:

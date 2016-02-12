@@ -1,0 +1,25 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Enform
+Name[ca]=Enform
+Name[el]=Enform
+Name[eo]=Enform
+Name[fr]=Enform
+Name[ru]=Enform
+Name[tr]=Enform
+Comment=Log in using Enform (Version 0.0.2)
+Comment[ca]=Iniciar sessió amb Enform (Versió 0.0.2)
+Comment[el]=Είσοδος με το Enform (Έκδοση 0.0.2)
+Comment[eo]=Ensaluti pere de Enform (Versio 0.0.2)
+Comment[es]=Iniciar sesión usando Enform (Versión 0.0.2)
+Comment[fr]=Ouvrir une session Enform (Version 0.0.2)
+Comment[gl]=Iniciar sesión usando Enform (Versión 0.0.2)
+Comment[it]=Accedi con Enform (Versione 0.0.2)
+Comment[ko]=Enform 로그인(버전 0.0.2)
+Comment[pt]=Iniciar sessão no Enform (Versão 0.0.2)
+Comment[ru]=Войти используя Enform (Версия 0.0.2)
+Comment[tr]=Enform kullanarak giriş yaın (Version 0.0.2)
+Icon=/usr/local/share/enform/data/images/enform.png
+TryExec=/usr/local/bin/enform_start
+Exec=/usr/local/bin/enform_start

@@ -1,0 +1,26 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Link
+Name=Composite
+Name[ca]=Composite
+Name[de]=Composite-Grafik
+Name[eo]=Kunmetado
+Name[es]=Composición
+Name[fr]=Composite
+Name[gl]=Composición
+Name[pt]=Composição
+Name[ru]=Композитный режим
+Name[tr]=Birleşiklik
+Comment=Enform Composite Manager
+Comment[ca]=Administrador de Composite a l'Enform.
+Comment[de]=Composite-Manager für Enform
+Comment[eo]=Administrilo de kunmetado por Enform
+Comment[es]=Administrador de composición de Enform.
+Comment[fr]=Gestionnaire de composite intégré.
+Comment[gl]=Xestor de composición de Enform.
+Comment[it]=Composite manager per Enform.
+Comment[pt]=Gestão de composição integrada
+Comment[ru]=Композитный менеджер для Enform
+Comment[tr]=Enform için birleşiklik yöneticisi
+Icon=e-module-comp
+X-Enform-ModuleType=look

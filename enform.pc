@@ -1,0 +1,19 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+datadir=${prefix}/share
+includedir=${prefix}/include/enform
+modules=${exec_prefix}/lib/enform/modules
+pkgdatadir=${prefix}/share/enform/data
+themes=${pkgdatadir}/themes
+backgrounds=${pkgdatadir}/backgrounds
+config_apps=/usr/local/share/enform/config-apps
+release=0.17.6
+
+Name: enform
+Description: Enlightenmnt Window Manager
+Requires: evas >= 1.7.10 ecore >= 1.7.10 ecore-x >= 1.7.10 ecore-evas >= 1.7.10 ecore-con >= 1.7.10 ecore-ipc >= 1.7.10 ecore-file >= 1.7.10 eet >= 1.7.10 edje >= 1.7.10 efreet >= 1.7.10 efreet-mime >= 1.7.10 efreet-trash >= 1.7.10 eina >= 1.7.10 dbus-1 edbus >= 1.7.10 eio >= 1.7.10 ehal >= 1.7.10, edbus >= 1.7.10 eukit >= 1.7.10  ehal emotion >= 1.7.10
+Version: 0.0.2
+Libs: -L${libdir}
+Libs.private:  -lm
+Cflags: -I${includedir} -DUSE_E_CONFIG_H

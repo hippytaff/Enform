@@ -1,0 +1,16 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Link
+Name=Wayland Drm
+Name[eo]=Mastrumado de ciferecaj rajtoj   de Wayland
+Name[fr]=Gestion des droits numériques Wayland
+Comment=Enform DRM Composite Manager
+Comment[ca]=Administrador de composició DRM de l'Enform
+Comment[eo]=Administrilo de kunmetaĵo Enform DRM
+Comment[es]=Administrador de composición DRM de Enform
+Comment[fr]=Gestionnaire Composite avec DRM de Enform
+Comment[gl]=Xestor de composición DRM de Enform
+Comment[it]=Composite manager DRM di Enform
+Comment[pt]=Gestor de composição Enform DRM
+Icon=e-module-wl_drm
+X-Enform-ModuleType=look
